@@ -50,7 +50,11 @@ Lower cost, trim down version of  [MirageC79's HevORT](https://github.com/Mirage
 	<code>First,there is no space to mount the pump. Second, a good single 5015 is fine. I only need 75% fan with PLA, other type of filament even need less. I only need more cooling when do the speed benchy run, but that's not the speed for printing quality parts. Too strong cooling also push the overhang down before can cool it.</code>
 	
 ## BOM  
-comming soon
+comming soon  
 	
+## In development
 
+- Top hat  
+- Simpler bed carrier with 2020 profiles (maybe)  
+- Physic button power control for pi and sonoff-psu  
 
