@@ -57,3 +57,6 @@ comming soon
 - Top hat, this will be lightweight and use 100% printable parts    
 - Physic button power control for pi and sonoff-psu  
 
+## Thing might change  
+
+- The extruder cable mounter. I'm thinking to change this part to make the printer easier to fully enclosed.  
