@@ -38,23 +38,22 @@ Lower cost, trim down version of  [MirageC79's HevORT](https://github.com/Mirage
 	<code>The price is resonable(clone), easy to mount and does not require custom cut aluminum plate.</code>
 	
 - Why the bed carrier is too complex, that will also raise the cost?  
-	<code>I over do it, it can be more simple. On other hand, the prusa bed carrier have mounting holes on the corners, but just a single mount point is not enough to keep the bushing mounter from tilting. The CF rods were use to keep the mounter from tilting. 5mm CF rods is are cheap and widely available.</code>  
+	<code>I over did it, it can be more simple. On other hand, the prusa bed carrier have mounting holes on the corners, but just a single mount point is not enough to keep the bushing mounter from tilting. The CF rods were use to keep the mounter from tilting. 5mm CF rods is are cheap and widely available.</code>  
 	
 - Why dont make the frame taller instead of top-hat?  
-	<code>I don't want to add more weight on the top part of the printer. Heavy head will reduce the max speed/accel that the printer can print without losing quality.</code>
+	<code>I don't want to add more weight on the top part of the printer. Heavy head only make the machine less stable and will reduce the max speed/accel that the printer can print without losing quality.</code>
 	
 - Why use the non standard ASF frame?  
 	<code>They are the only thing I can get in my location. Misumi selling them too, so I dont think that will be problem.</code>
 	
 - Single 5015 for layer fan is underpower, why don't use berdair?  
-	<code>First,there is no space to mount the pump. Second, a good single 5015 is fine. I only need 75% fan with PLA, other type of filament even need less. I only need more cooling when do the speed benchy run, but that's not the speed for printing quality parts. Too strong cooling also push the overhang down before can cool it.</code>
+	<code>First,there is no space to mount the pump. Second, a good single 5015 is fine. I only need 75% fan with PLA, other type of filament even need less. I only need more cooling when do the speed benchy run, but that's not the speed for printing quality parts. Too strong cooling also push the overhang down before the fan have enough time to cool it down.</code>
 	
 ## BOM  
 comming soon  
 	
 ## In development
 
-- Top hat  
-- Simpler bed carrier with 2020 profiles (maybe)  
+- Top hat, this will be lightweight and use 100% printable parts    
 - Physic button power control for pi and sonoff-psu  
 
