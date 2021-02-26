@@ -8,7 +8,7 @@ Lower cost, trim down version of  [MirageC79's HevORT](https://github.com/Mirage
 - Use off-the-shell parts  
 - Does not need special tool to make the parts  
 - Affordable price  
-- Semi enclosed by default, can be convert to fullly enclosed if needed  
+- Semi enclosed by default, can be convert to fullly enclosed if needed.If you want fully enclosed frame, get the 4 main vertical extrusion about 100mm logner  
 
 ## Feature
 
@@ -40,8 +40,6 @@ Lower cost, trim down version of  [MirageC79's HevORT](https://github.com/Mirage
 - Why the bed carrier is too complex, that will also raise the cost?  
 	<code>I over did it, it can be more simple. On other hand, the prusa bed carrier have mounting holes on the corners, but just a single mount point is not enough to keep the bushing mounter from tilting. The CF rods were use to keep the mounter from tilting. 5mm CF rods is are cheap and widely available.</code>  
 	
-- Why dont make the frame taller instead of top-hat?  
-	<code>I don't want to add more weight on the top part of the printer. Heavy head only make the machine less stable and will reduce the max speed/accel that the printer can print without losing quality.</code>
 	
 - Why use the non standard ASF frame?  
 	<code>They are the only thing I can get in my location. Misumi selling them too, so I dont think that will be problem.</code>
@@ -54,7 +52,7 @@ comming soon
 	
 ## In development
 
-- Top hat, this will be lightweight and use 100% printable parts    
+- Newer version with Wobble wings like mechanism or belted Z instead of lead screw.  
 - Physic button power control for pi and sonoff-psu  
 
 ## Thing might change  
