@@ -2,6 +2,9 @@
 
 Lower cost, trim down version of  [MirageC79's HevORT](https://github.com/MirageC79/HevORT) corexy design
 
+## Notice  
+- I was design this machine to be a lowcost and fast machine for prototyping, but it ended up the best machine in my small farm, thank to hevort solid XY axis and small size frame. I'm working on v2 of this machine. V2 will have hevort-like 3 points mounting bed and belted Z instead of ballscrew.   
+
 ## About this project
 
 - Small printer that stable and can print fast  
