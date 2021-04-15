@@ -7,7 +7,7 @@ Lower cost, trim down version of [MirageC79's HevORT](https://github.com/MirageC
 
 ## About the next release
 
-I'm working on the next of this machine.
+I'm working on the next upgrades of this machine.
 
 - HevORT-like 3 points mounting bed and belted Z instead of ballscrews.
 - Dragon hotend toolhead.
@@ -15,6 +15,7 @@ I'm working on the next of this machine.
 - Circular air filter.
 - Hevav-like cooling.(I'm not sure if we really need this, since other material than PLA doesn't need much that cooling.)
 - Filament spool holder inside the machine chamber.
+- Adapt for other type of 3030 frame.
 
 ## About this project
 
