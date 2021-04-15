@@ -13,7 +13,7 @@ I'm working on the next upgrades of this machine.
 - Dragon hotend toolhead.
 - Brush for nozzle cleaning.
 - Circular air filter.
-- Hevav-like cooling.(I'm not sure if we really need this, since other material than PLA doesn't need much that cooling.)
+- Hevac-like cooling.(I'm not sure if we really need this, since other material than PLA doesn't need that much cooling.)
 - Filament spool holder inside the machine chamber.
 - Adapt for other type of 3030 frame.
 
