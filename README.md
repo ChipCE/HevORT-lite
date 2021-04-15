@@ -46,19 +46,19 @@ I'm working on the next upgrades of this machine.
 ## Q/A
 
 - Why only 2 lead screw instead of 3?  
-  <code>The bed is small(180x180mm) so even a single leadscrew will be fine. But the board have extra port for the second Z so I decided to go with 2 Z.</code>
+  <code>The bed is small(180x180mm) so even a single leadscrew will be fine. But the board have extra port for the second Z so I decided to go with 2 Z.</code>  
   Edit: 3 points bel leveling and belt driven Z will be added on the next release.  
 
 - Why using the prusa mini bed?  
-  <code>The price is resonable(clone), easy to mount and does not require custom cut aluminum plate.</code>
+  <code>The price is resonable(clone), easy to mount and does not require custom cut aluminum plate.</code>  
   Edit: Next release will have option for alumium bed.  
   
 - Why the bed carrier is too complex, that will also raise the cost?  
-  <code>I over did it, it can be more simple. On other hand, the prusa bed carrier have mounting holes on the corners, but just a single mount point is not enough to keep the bushing mounter from tilting. The CF rods were use to keep the mounter from tilting. 5mm CF rods is are cheap and widely available.</code>
+  <code>I over did it, it can be more simple. On other hand, the prusa bed carrier have mounting holes on the corners, but just a single mount point is not enough to keep the bushing mounter from tilting. The CF rods were use to keep the mounter from tilting. 5mm CF rods is are cheap and widely available.</code>  
   Edit: Custom aluminum bed and 2020 bed carrier will be added on the next release.
   
 - Why use the non standard ASF frame?  
-  <code>They are the only thing I can get in my location. Misumi selling them too, so I dont think that will be problem.</code>
+  <code>They are the only thing I can get in my location. Misumi selling them too, so I dont think that will be problem.</code>  
   Edit: I'm working on support for other types of 3030 frame.
   
 - Single 5015 for layer fan is underpower, why don't use berdair?  
