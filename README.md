@@ -2,7 +2,8 @@
 
 Lower cost, trim down version of [MirageC79's HevORT](https://github.com/MirageC79/HevORT) corexy design. I was designing this machine to be a lowcost and fast machine for parts prototyping, but it ended up the best machine in my small farm, thank to hevort solid XY axis and small size frame.
 
-![Front-view](https://github.com/ChipCE/HevORT-lite/img/size.jpg)
+![front-view](https://github.com/ChipCE/HevORT-lite/blob/master/img/front.jpg)
+![side-view](https://github.com/ChipCE/HevORT-lite/blob/master/img/side.jpg)
 
 ## About the next release
 
