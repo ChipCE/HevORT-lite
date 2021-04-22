@@ -16,6 +16,7 @@ I'm working on the next upgrades of this machine.
 - Hevac-like cooling.(I'm not sure if we really need this, since other material than PLA doesn't need that much cooling.)
 - Filament spool holder inside the machine chamber.
 - Adapt for other type of 3030 frame.
+- Carbon fiber X ganty and new X gantry mount if I can pull out the dimensions from the original CAD.
 
 ## About this project
 
