@@ -16,7 +16,7 @@ I'm working on the next upgrades of this machine.
 - Hevac-like cooling.(I'm not sure if we really need this, since other material than PLA doesn't need that much cooling.)
 - Filament spool holder inside the machine chamber.
 - Adapt for other type of 3030 frame.
-- Carbon fiber X ganty and new X gantry mount if I can pull out the dimensions from the original CAD.
+- <del>Carbon fiber X ganty and new X gantry mount if I can pull out the dimensions from the original CAD.</del> Edit : I bought some sample from Chinese seller, all of them doesn't have good enough tolerance (+-0.2mm as my measure). That mean either(or both) the rail or the CF tube will have to bend slightly when installed. I'm thinking of using 2010 aluminum profile (Misumi L5-SPH2010N) instead. 2010 profile does not lightweight as CF tube but still can cut the gantry weight by haft.
 
 ## About this project
 
