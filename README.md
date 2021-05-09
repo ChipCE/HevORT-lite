@@ -10,7 +10,7 @@ Lower cost, trim down version of [MirageC79's HevORT](https://github.com/MirageC
 I'm working on the next upgrades of this machine. For in-development update, feature request or sugguestion, contact me on [twitter](https://twitter.com/ChipMaple)
 
 - HevORT-like 3 points mounting bed and belted Z instead of ballscrews.
-- Dragon hotend toolhead.
+- Dragon hotend toolhead with mgn12 and mgn9 support.
 - Brush for nozzle cleaning.
 - Circular air filter.
 - Hevac-like cooling.(I'm not sure if we really need this, since other material than PLA doesn't need that much cooling.)
