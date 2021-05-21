@@ -24,7 +24,7 @@ I'm working on the next upgrades of this machine. For in-development update, fea
 - Use off-the-shell parts
 - Does not need special tool to make the parts
 - Affordable price
-- Semi enclosed by default, can be convert to fullly enclosed if needed.If you want fully enclosed frame, get the 4 main vertical extrusion about 150mm longer
+- Semi enclosed by default, can be convert to fullly enclosed if needed.If you want fully enclosed frame, get the 4 main vertical extrusion about 100mm longer
 
 ## Feature
 
