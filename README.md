@@ -8,6 +8,7 @@ Lower cost, trim down version of [MirageC79's HevORT](https://github.com/MirageC
 ## About the next release
 
 I'm working on the next upgrades of this machine. For in-development update, feature request or sugguestion, contact me on [twitter](https://twitter.com/ChipMaple)
+Work in progress files are available [here](https://github.com/ChipCE/3d-printing/tree/master/HevOrt%20corexy)
 
 - Redesign XY axis to make it printable without support. Move AB motor into inside to make the machine easier to enclosure.
 - Auto detec and load bed mesh profile based on flex sheet.
