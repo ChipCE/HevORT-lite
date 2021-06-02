@@ -10,14 +10,14 @@ Lower cost, trim down version of [MirageC79's HevORT](https://github.com/MirageC
 I'm working on the next upgrades of this machine. For in-development update, feature request or sugguestion, contact me on [twitter](https://twitter.com/ChipMaple).  
 Work in progress files are available [here](https://github.com/ChipCE/3d-printing/tree/master/HevOrt%20corexy)
 
-- Redesign XY axis to make it printable without support. Move AB motor into inside to make the machine easier to enclosure.
+- Redesign XY axis to make it printable without support. Move AB motor into inside to make the machine easier to enclosure(optional).
 - Auto detec and load bed mesh profile based on flex sheet.
 - HevORT-like 3 points mounting bed and belted Z instead of ballscrews.
 - Dragon hotend toolhead with mgn12 and mgn9 support.
 - Brush for nozzle cleaning.
 - Circular air filter.
 - Hevac-like cooling.(I'm not sure if we really need this, since other material than PLA doesn't need that much cooling.)
-- Filament spool holder inside the machine chamber.
+- Filament spool holder inside the machine chamber(optional).
 - Adapt for other type of 3030 frame.
 - Carbon fiber X gantry mounter and 2010 extrusion gantry mounter.  
 
