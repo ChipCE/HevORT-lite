@@ -7,6 +7,8 @@ Lower cost, trim down version of [MirageC79's HevORT](https://github.com/MirageC
 
 ## About the next release
 
+While trying to make upgrade for the next release, I ended up with redesign all of the parts. Since there is no Original HevORT parts on the build, the next release will be released under other name. Futher release available [SnakeOilXY repo](https://github.com/ChipCE/SnakeOil-XY)
+
 I'm working on the next upgrades of this machine. For in-development update, feature request or sugguestion, contact me on [twitter](https://twitter.com/ChipMaple).  
 Work in progress files are available [here](https://github.com/ChipCE/SnakeOil-XY)
 
