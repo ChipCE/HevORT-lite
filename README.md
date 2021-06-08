@@ -9,7 +9,8 @@ Lower cost, trim down version of [MirageC79's HevORT](https://github.com/MirageC
 
 While trying to make upgrade for the next release, I ended up with redesign all of the parts. Since there is no Original HevORT parts on the build, the next release will be released under other name. Futher release and WIP files are available in [SnakeOilXY repo](https://github.com/ChipCE/SnakeOil-XY)
 
-I'm working on the next upgrades of this machine. For in-development update, feature request or sugguestion, contact me on [twitter](https://twitter.com/ChipMaple).  
+Any suggestions, feature requests, questions are welcomed, feel free to contact me via [Twitter](https://twitter.com/ChipMaple) or [Join discord group](https://discord.gg/WZVP2HuAag)
+
 Work in progress files are available [here](https://github.com/ChipCE/SnakeOil-XY)
 
 - Redesign XY axis to make it printable without support. Move AB motor into inside to make the machine easier to enclosure(optional).
