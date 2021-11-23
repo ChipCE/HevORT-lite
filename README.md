@@ -7,22 +7,9 @@ Lower cost, trim down version of [MirageC79's HevORT](https://github.com/MirageC
 
 ## About the next release
 
-While trying to make upgrade for the next release, I ended up with redesign all of the parts. Since there is no Original HevORT parts on the build, the next release will be released under other name. Futher release and WIP files are available in [SnakeOilXY repo](https://github.com/ChipCE/SnakeOil-XY)
+<strong>There will be no futher maintenance or update on this project.</strong>
 
-Any suggestions, feature requests, questions are welcomed, feel free to contact me via [Twitter](https://twitter.com/ChipMaple) or [Join discord group](https://discord.gg/WZVP2HuAag)
-
-Work in progress files are available [here](https://github.com/ChipCE/SnakeOil-XY)
-
-- Redesign XY axis to make it printable without support. Move AB motor into inside to make the machine easier to enclosure(optional).
-- Auto detec and load bed mesh profile based on flex sheet.
-- HevORT-like 3 points mounting bed and belted Z instead of ballscrews.
-- Dragon hotend toolhead with mgn12 and mgn9 support.
-- Brush for nozzle cleaning.
-- Circular air filter.
-- Hevac-like cooling.(I'm not sure if we really need this, since other material than PLA doesn't need that much cooling.)
-- Filament spool holder inside the machine chamber(optional).
-- Adapt for other type of 3030 frame.
-- Carbon fiber X gantry mounter and 2010 extrusion gantry mounter.  
+Futher development from ground up files are available in [SnakeOilXY repo](https://github.com/ChipCE/SnakeOil-XY)
 
 ## About this project
 
