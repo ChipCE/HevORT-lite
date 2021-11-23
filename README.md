@@ -1,4 +1,4 @@
-# HevORT lite doc (work in progress)
+# HevORT lite
 
 Lower cost, trim down version of [MirageC79's HevORT](https://github.com/MirageC79/HevORT) corexy design. I was designing this machine to be a lowcost and fast machine for parts prototyping, but it ended up the best machine in my small farm, thank to hevort solid XY axis and small size frame. You can see it in action on [youtube](https://youtu.be/qDmU6JHQ-gc)
 
@@ -7,9 +7,7 @@ Lower cost, trim down version of [MirageC79's HevORT](https://github.com/MirageC
 
 ## About the next release
 
-<strong>There will be no futher maintenance or update on this project.</strong>
-
-Futher development from ground up files are available in [SnakeOilXY repo](https://github.com/ChipCE/SnakeOil-XY)
+<strong>There will be no futher maintenance or update on this project. This project has been replaced by [SnakeOil-XY 3d printer design](https://github.com/ChipCE/SnakeOil-XY)</strong>
 
 ## About this project
 
